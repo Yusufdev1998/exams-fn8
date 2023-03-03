@@ -46,6 +46,7 @@
     Fabrika paypoq ishlab chiqarmoqda, paypoq ishlab chiqilgandan keyin maxsulotning
     tan narxi 5300 so'm bo'ldi. Bunda bizning dastur uning bozordagi narxini
     chiqarib berishi kerak. Agar tan narx 5300 bo'lsa, bozordagi narxi 6000 bo'ladi.
+    Chunki bizda 1000 so'mdan kichkina pullar yo'q.
     Prompt orqali maxsulotning tan narxi kiritilsa,
     uning bozordagi narxini chiqarib bering. (maxsulotning tan narxi 1000 dan 10000 so'm
     oralig'ida bo'lishi mumkin)
