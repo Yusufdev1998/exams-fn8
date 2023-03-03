@@ -54,6 +54,7 @@
     1.) tan narx: 1300; bozor narxi: 2000 
     2.) tan narx: 8900; bozor narxi: 9000 
     3.) tan narx: 2500; bozor narxi: 3000 
+    3.) tan narx: 4100; bozor narxi: 5000 
 */
 
 /* 
