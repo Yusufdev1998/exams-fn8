@@ -5,7 +5,7 @@
 */
 
 /*
-   1-masala.(10 ball)
+   1-masala.(2 ball)
    Dollarni so'mga o'girib beradigan dastur tuzing.
    Bunda prompt orqali foydalanuvchidan "Sizda necha dollar bor ?" deb so'raladi.
    Va dastur dollarni so'mga o'girib, natijani consolega chiqarib bersin.
@@ -20,7 +20,7 @@
 */
 
 /*
-    2-masala.(20 ball)
+    2-masala.(2 ball)
     Dasturda foydalanuvchini kim ekanligini ko'rsatish uchun prompt orqali
     foydalanuvchining ism va familiyasi so'raladi. 
     Agar foydalanuvchi ism va familiyasini kiritsa, masalan: 
@@ -42,7 +42,7 @@
 */
 
 /*
-    3-masala.(30 ball)(real loyihadan)
+    3-masala.(2 ball)(real loyihadan)
     Fabrika paypoq ishlab chiqarmoqda, paypoq ishlab chiqilgandan keyin maxsulotning
     tan narxi 5300 so'm bo'ldi. Bunda bizning dastur uning bozordagi narxini
     chiqarib berishi kerak. Agar tan narx 5300 bo'lsa, bozordagi narxi 6000 bo'ladi.
@@ -62,3 +62,31 @@
   3-masalaning kodini bu yerda yozing.
   3-masalani ishlab bo'lgandan keyin uni kommentga olib qoying.
 */
+
+
+/*
+    4-masala.(2 ball)
+    Massiv(array)ning ichidagi sonlarning yig'indisini chiqarib beradigan funksiya yasang.
+
+    Namunalar: 
+    1.) [1,2,3] => 6
+*/
+
+/* 
+  4-masalaning kodini bu yerda yozing.
+  4-masalani ishlab bo'lgandan keyin uni kommentga olib qoying.
+*/
+
+/*
+    5-masala.(2 ball)
+    Massiv(array)ning ichidagi sonlarning orasidan eng kattasini topib  chiqarib beradigan funksiya yasang.
+
+    Namunalar: 
+    1.) [1,5,2,3] => 5
+*/
+
+/* 
+  5-masalaning kodini bu yerda yozing.
+  5-masalani ishlab bo'lgandan keyin uni kommentga olib qoying.
+*/
+
